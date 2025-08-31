@@ -6,4 +6,4 @@ export default function Edad(){
       <h1>35 años</h1>
     </div>
   );
-};
+}

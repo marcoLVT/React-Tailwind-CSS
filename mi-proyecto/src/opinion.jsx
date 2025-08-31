@@ -7,4 +7,4 @@ export default function Opinion(){
       <h2>No entiendo</h2>
     </div>
   );
-};
+}

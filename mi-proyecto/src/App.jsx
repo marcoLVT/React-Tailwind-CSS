@@ -1,14 +1,13 @@
-import Saludo from "./saludo.jsx";
-import Edad from "./edad.jsx";
-import Opinion from "./opinion.jsx";
 
-export default function app(){
+import Edade from "./flecha.jsx";
+
+export default function App(){
   return(
     <section>
       <h1>Saludito</h1>
-      <Saludo />
-      <Edad />
-      <Opinion />
+      <Edade edad="20"/>
     </section>
   );
 };
+
+
